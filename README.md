@@ -1,0 +1,1 @@
+This is a list of Arduino Projects that I have done or working on using the following resources and a bit more from the Arduino Uno R4, Jeremy Blum's Exploring Arduino, and The Most Complete Starter Kit Mega Project. Software used so far: Arduino IDE and TinkerCAD
